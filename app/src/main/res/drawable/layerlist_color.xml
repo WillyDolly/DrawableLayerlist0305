@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+    <color android:color="#ff0" />
+
+    </item>
+    <item
+        android:right="10dp"
+        android:bottom="10dp"
+        android:left="10dp"
+        android:top="10dp">
+        <color android:color="#f00"/>
+        
+    </item>
+    <item
+        android:right="20dp"
+        android:bottom="20dp"
+        android:left="20dp"
+        android:top="20dp">
+        <color android:color="#00ccff"/>
+
+    </item>
+    <item
+        android:right="30dp"
+        android:bottom="30dp"
+        android:left="30dp"
+        android:top="30dp">
+
+        <color android:color="#11ff00"/>
+
+    </item>
+
+
+
+
+</layer-list>
